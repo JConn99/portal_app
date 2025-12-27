@@ -7,6 +7,9 @@ from urllib.parse import urlparse
 from serpapi import GoogleSearch
 import re
 import pandas as pd
+import streamlit as st
+
+SERPAPI_KEY = st.secrets["SERPAPI_KEY"]
 #import sqlite3
 
 load_dotenv()
@@ -16,7 +19,7 @@ example_response = example_response.get("organic_results", [])
 
 people_table = pd.DataFrame()
 
-SERPAPI_KEY = os.getenv("SERPAPI_KEY")
+#SERPAPI_KEY = os.getenv("SERPAPI_KEY")
 
 def search_google(query):
     params = {

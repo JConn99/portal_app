@@ -1,0 +1,482 @@
+{
+    "search_metadata":
+    {
+    "id":
+    "694e13d6a26f566fdb63a4c5",
+    "status":
+    "Success",
+    "json_endpoint":
+    "https://serpapi.com/searches/1bb1cf2be462b48b/694e13d6a26f566fdb63a4c5.json",
+    "pixel_position_endpoint":
+    "https://serpapi.com/searches/1bb1cf2be462b48b/694e13d6a26f566fdb63a4c5.json_with_pixel_position",
+    "created_at":
+    "2025-12-26 04:49:26 UTC",
+    "processed_at":
+    "2025-12-26 04:49:26 UTC",
+    "google_url":
+    "https://www.google.com/search?q=Trence+Key+William+Jewell+College&oq=Trence+Key+William+Jewell+College&sourceid=chrome&ie=UTF-8",
+    "raw_html_file":
+    "https://serpapi.com/searches/1bb1cf2be462b48b/694e13d6a26f566fdb63a4c5.html",
+    "total_time_taken":
+    0.82
+    },
+    "search_parameters":
+    {
+    "engine":
+    "google",
+    "q":
+    "Trence Key William Jewell College",
+    "google_domain":
+    "google.com",
+    "device":
+    "desktop"
+    },
+    "search_information":
+    {
+    "query_displayed":
+    "Trence Key William Jewell College",
+    "total_results":
+    176000,
+    "time_taken_displayed":
+    0.31,
+    "organic_results_state":
+    "Results for exact spelling"
+    },
+    "related_questions":
+    [
+    {
+    "question":
+    "Is William Jewell College D1 or D2?",
+    "type":
+    "featured_snippet",
+    "table":
+    [
+    [
+    "William Jewell Cardinals"
+    ],
+    [
+    "NCAA",
+    "Division II"
+    ],
+    [
+    "Athletic director",
+    "Tom Eisenhauer"
+    ],
+    [
+    "Location",
+    "Liberty, Missouri"
+    ],
+    [
+    "Varsity teams",
+    "24"
+    ]
+    ],
+    "formatted":
+    {
+    "william_jewell_cardinals":
+    {
+    "ncaa":
+    "Division II",
+    "athletic_director":
+    "Tom Eisenhauer",
+    "location":
+    "Liberty, Missouri",
+    "varsity_teams":
+    "24"
+    }
+    },
+    "title":
+    "NCAA Division II",
+    "link":
+    "https://en.wikipedia.org/wiki/William_Jewell_Cardinals",
+    "displayed_link":
+    "https://en.wikipedia.org › wiki › William_Jewell_Cardinals",
+    "source_logo":
+    "https://serpapi.com/searches/694e13d6a26f566fdb63a4c5/images/200eb8d6ac6360dd79ede1ed8dac374787ee5a7947bd8698a39657b1919f5dd6.png",
+    "next_page_token":
+    "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFFUZHZUM1ZzV2tGTVlXZEpTVlJ0U1doVFZHWTVlVnBOZW1oNWFEaHlaSEJVYTBwaVIwdDNUMkZMVFhWVlh6UjFOR1kyTVc5NlVsSlFTVmxUWDA5YVpERllPVGt5VEdoMFpWaDFhV2d3V0VSWlFuZzBUbVZ3Y1U1Nlp4SVhNWGhPVDJGaFJEbEZOWEUyY1hSelVIRmFObWN5UVRRYUlrRkdUVUZIUjNGTVVVRnJhWFUzVjE5dGVGTjBaemgxWTJ4UmJrOTNNblYyYUhjIiwiZmN2IjoiMyIsImVpIjoiMXhOT2FhRDlFNXE2cXRzUHFaNmcyQTQiLCJxYyI6IkNpRjBjbVZ1WTJVZ2EyVjVJSGRwYkd4cFlXMGdhbVYzWld4c0lHTnZiR3hsWjJVUUFIMWlLaTBfIiwicXVlc3Rpb24iOiJJcyBXaWxsaWFtIEpld2VsbCBDb2xsZWdlIEQxIG9yIEQyPyIsImxrIjoiR2lKcGN5QjNhV3hzYVdGdElHcGxkMlZzYkNCamIyeHNaV2RsSUdReElHOXlJR1F5IiwiYnMiOiJjLVB5NDFMMkxGWUl6OHpKeVV6TVZmQktMVV9OeVZGd3pzX0pTVTFQVlhBeFZNZ3ZVbkF4c3Bmb0R6SlNrVkxLTEZZb2g2ck1ncWhNaHFwTUFhdE1NUkpnQkFBIiwiaWQiOiJmY18xeE5PYWFEOUU1cTZxdHNQcVo2ZzJBNF8xIn0=",
+    "serpapi_link":
+    "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFFUZHZUM1ZzV2tGTVlXZEpTVlJ0U1doVFZHWTVlVnBOZW1oNWFEaHlaSEJVYTBwaVIwdDNUMkZMVFhWVlh6UjFOR1kyTVc5NlVsSlFTVmxUWDA5YVpERllPVGt5VEdoMFpWaDFhV2d3V0VSWlFuZzBUbVZ3Y1U1Nlp4SVhNWGhPVDJGaFJEbEZOWEUyY1hSelVIRmFObWN5UVRRYUlrRkdUVUZIUjNGTVVVRnJhWFUzVjE5dGVGTjBaemgxWTJ4UmJrOTNNblYyYUhjIiwiZmN2IjoiMyIsImVpIjoiMXhOT2FhRDlFNXE2cXRzUHFaNmcyQTQiLCJxYyI6IkNpRjBjbVZ1WTJVZ2EyVjVJSGRwYkd4cFlXMGdhbVYzWld4c0lHTnZiR3hsWjJVUUFIMWlLaTBfIiwicXVlc3Rpb24iOiJJcyBXaWxsaWFtIEpld2VsbCBDb2xsZWdlIEQxIG9yIEQyPyIsImxrIjoiR2lKcGN5QjNhV3hzYVdGdElHcGxkMlZzYkNCamIyeHNaV2RsSUdReElHOXlJR1F5IiwiYnMiOiJjLVB5NDFMMkxGWUl6OHpKeVV6TVZmQktMVV9OeVZGd3pzX0pTVTFQVlhBeFZNZ3ZVbkF4c3Bmb0R6SlNrVkxLTEZZb2g2ck1ncWhNaHFwTUFhdE1NUkpnQkFBIiwiaWQiOiJmY18xeE5PYWFEOUU1cTZxdHNQcVo2ZzJBNF8xIn0%3D"
+    }
+    ],
+    "organic_results":
+    [
+    {
+    "position":
+    1,
+    "title":
+    "Trence Key - 2025 Football Roster",
+    "link":
+    "https://jewellcardinals.com/sports/football/roster/trence-key/8601",
+    "redirect_link":
+    "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jewellcardinals.com/sports/football/roster/trence-key/8601&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQFnoECCIQAQ",
+    "displayed_link":
+    "https://jewellcardinals.com › sports › roster › trence-key",
+    "favicon":
+    "https://serpapi.com/searches/694e13d6a26f566fdb63a4c5/images/e128751cbfd21c3ec8dfba4f64924297bd0e64fbc351d1d9a2721140a9d71547.png",
+    "snippet":
+    "Trence Key (53) Defensive End - 2025 (FRESHMAN) Did not appear PREP Played under coach Michael Rose-Ivey at William Chrisman High School PERSONAL Born.",
+    "snippet_highlighted_words":
+    [
+    "Trence Key",
+    "William",
+    "School"
+    ],
+    "source":
+    "William Jewell College Athletics"
+    },
+    {
+    "position":
+    2,
+    "title":
+    "1395702",
+    "link":
+    "https://webapps.jewell.edu/directory/students/A1395702.HTML",
+    "redirect_link":
+    "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://webapps.jewell.edu/directory/students/A1395702.HTML&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQFnoECBwQAQ",
+    "displayed_link":
+    "https://webapps.jewell.edu › directory › students",
+    "snippet":
+    "Trence Sergio Key. Address: Box 2492. William Jewell College. Email: keyt.25@william.jewell.edu. Advisor(s):, Megan Groninger - Primary. Major(s):, BUSSM.",
+    "snippet_highlighted_words":
+    [
+    "Trence Sergio Key"
+    ],
+    "source":
+    "William Jewell College"
+    },
+    {
+    "position":
+    3,
+    "title":
+    "Trence Key (@trence_key0) / Posts / X",
+    "link":
+    "https://x.com/trence_key0",
+    "redirect_link":
+    "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://x.com/trence_key0&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQFnoECBsQAQ",
+    "displayed_link":
+    "https://x.com › Explore",
+    "favicon":
+    "https://serpapi.com/searches/694e13d6a26f566fdb63a4c5/images/e128751cbfd21c3ec8dfba4f649242978788969fd21db570fbe3b5207c4aa45f.png",
+    "snippet":
+    "William Jewell DL @SpencerKey_9 & EDGE commit @trence_key0 getting primed to pass rush! Spring break, No Break! #NexusDLAcademy #NoBusyWork #JustWorking.",
+    "snippet_highlighted_words":
+    [
+    "William Jewell DL"
+    ],
+    "source":
+    "X"
+    },
+    {
+    "position":
+    4,
+    "title":
+    "2025 Football Roster",
+    "link":
+    "https://jewellcardinals.com/sports/football/roster",
+    "redirect_link":
+    "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jewellcardinals.com/sports/football/roster&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQFnoECB4QAQ",
+    "displayed_link":
+    "https://jewellcardinals.com › sports › football › roster",
+    "favicon":
+    "https://serpapi.com/searches/694e13d6a26f566fdb63a4c5/images/e128751cbfd21c3ec8dfba4f6492429711aa9923eb0b26fa49f136e99db1c010.png",
+    "snippet":
+    "The official 2025 Football Roster for the William Jewell College Cardinals. ... Trence Key. Fr. Business Independence, MO William Chrisman. Full Bio. Freshman ...",
+    "snippet_highlighted_words":
+    [
+    "Trence Key"
+    ],
+    "source":
+    "William Jewell College Athletics"
+    },
+    {
+    "position":
+    5,
+    "title":
+    "Trence Key",
+    "link":
+    "https://www.hudl.com/profile/16917541",
+    "redirect_link":
+    "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hudl.com/profile/16917541&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQFnoECCAQAQ",
+    "displayed_link":
+    "https://www.hudl.com › profile",
+    "favicon":
+    "https://serpapi.com/searches/694e13d6a26f566fdb63a4c5/images/e128751cbfd21c3ec8dfba4f64924297cfb6b82b672e7170e50fad078d8104d3.png",
+    "snippet":
+    "Trence Key · Jersey #: 9 · Positions: OLB, DE · Height & Weight: 6'4 205lbs · 40 Yard Dash: 4.9 · Powerball: 37 · Bench: 265 · 185lb Bench Press (Reps): 10 · Squat ( ...",
+    "snippet_highlighted_words":
+    [
+    "Trence Key"
+    ],
+    "missing":
+    [
+    "Jewell"
+    ],
+    "must_include":
+    {
+    "word":
+    "Jewell",
+    "link":
+    "https://www.google.com/search?sca_esv=62e345f31140e71e&q=Trence+Key+William+%22Jewell%22+College&sa=X&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQ5t4CegQIMRAB"
+    },
+    "source":
+    "Hudl"
+    },
+    {
+    "position":
+    6,
+    "title":
+    "jewell_football",
+    "link":
+    "https://www.instagram.com/p/DHbHlyThQ9G/",
+    "redirect_link":
+    "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/p/DHbHlyThQ9G/&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQFnoECB8QAQ",
+    "displayed_link":
+    "170+ likes · 9 months ago",
+    "favicon":
+    "https://serpapi.com/searches/694e13d6a26f566fdb63a4c5/images/e128751cbfd21c3ec8dfba4f64924297c092a9be6e37c0800cfe0078bb48177d.png",
+    "snippet":
+    "With your help we can raise $100,000 for William Jewell College! We ... jewell_football SIGNED ✍️ Trence Key Linebacker Independence, Mo.",
+    "snippet_highlighted_words":
+    [
+    "William Jewell College",
+    "Trence Key"
+    ],
+    "source":
+    "Instagram · jewell_football"
+    },
+    {
+    "position":
+    7,
+    "title":
+    "Calvin Football Preps for Saturday Night Battle at the Castle - Calvin ...",
+    "link":
+    "https://calvinknights.com/story.aspx?filename=calvin-football-preps-for-saturday-night-battle-at-the-castle&file_date=9/18/2025",
+    "redirect_link":
+    "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://calvinknights.com/story.aspx%3Ffilename%3Dcalvin-football-preps-for-saturday-night-battle-at-the-castle%26file_date%3D9/18/2025&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQFnoECEMQAQ",
+    "displayed_link":
+    "https://calvinknights.com › story",
+    "favicon":
+    "https://serpapi.com/searches/694e13d6a26f566fdb63a4c5/images/e128751cbfd21c3ec8dfba4f6492429778b46bd559c34e9563bef2ac2e39bb1c.png",
+    "snippet":
+    "He is a 2008 graduate of William Jewell College where he was a four-year member of the football program as a special teams ace and defensive back. He later ...",
+    "snippet_highlighted_words":
+    [
+    "He is a 2008 graduate of William Jewell College"
+    ],
+    "source":
+    "calvinknights.com"
+    },
+    {
+    "position":
+    8,
+    "title":
+    "2005 UT DALLAS BASEBALL - University of Texas at ...",
+    "link":
+    "https://utdcomets.com/sports/2008/7/24/BSB_0724084243.aspx?id=67",
+    "redirect_link":
+    "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://utdcomets.com/sports/2008/7/24/BSB_0724084243.aspx%3Fid%3D67&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQFnoECEkQAQ",
+    "displayed_link":
+    "https://utdcomets.com › sports › BSB_0724084243",
+    "favicon":
+    "https://serpapi.com/searches/694e13d6a26f566fdb63a4c5/images/e128751cbfd21c3ec8dfba4f64924297027de73705618fe43a82805c632ed8b2.png",
+    "date":
+    "Jul 24, 2008",
+    "snippet":
+    "In the decisive eighth, the Comets put three runs across against William Jewell closer Mark Brackman. Simon reached on a walk, reached third on ...",
+    "snippet_highlighted_words":
+    [
+    "William Jewell"
+    ],
+    "source":
+    "University of Texas at Dallas Athletics"
+    },
+    {
+    "position":
+    9,
+    "title":
+    "Spencer Key, Jr. - Football",
+    "link":
+    "https://jewellcardinals.com/sports/football/roster/spencer-key--jr-/8545",
+    "redirect_link":
+    "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jewellcardinals.com/sports/football/roster/spencer-key--jr-/8545&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQFnoECEUQAQ",
+    "displayed_link":
+    "https://jewellcardinals.com › sports › football › roster",
+    "favicon":
+    "https://serpapi.com/searches/694e13d6a26f566fdb63a4c5/images/e128751cbfd21c3ec8dfba4f64924297cfa8dad2bbe8ddc6110f4721007081a3.png",
+    "snippet":
+    "Position: Defensive Line. Height: 6-2. Class: Redshirt Freshman. Hometown: Independence, MO. Prev School: William Chrisman. Major: Business.",
+    "snippet_highlighted_words":
+    [
+    "Class: Redshirt Freshman"
+    ],
+    "source":
+    "William Jewell College Athletics"
+    },
+    {
+    "position":
+    10,
+    "title":
+    "2022 NFF Hampshire Honor Society Membership",
+    "link":
+    "https://goduke.com/documents/download/2022/4/13/2022_Hampshire_Honor_Society_Members_FINAL.pdf",
+    "redirect_link":
+    "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://goduke.com/documents/download/2022/4/13/2022_Hampshire_Honor_Society_Members_FINAL.pdf&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQFnoECEsQAQ",
+    "displayed_link":
+    "https://goduke.com > documents > download > 20...",
+    "favicon":
+    "https://serpapi.com/searches/694e13d6a26f566fdb63a4c5/images/e128751cbfd21c3ec8dfba4f64924297cbf4dd521acda413f16a16b1489c4bfa.png",
+    "date":
+    "Apr 13, 2022",
+    "snippet":
+    "With 120 chapters in 47 states, NFF programs include the selection and induction of members of the College. Football Hall of Fame; the Chick-fil ...",
+    "snippet_highlighted_words":
+    [
+    "College"
+    ],
+    "source":
+    "goduke.com"
+    }
+    ],
+    "related_searches":
+    [
+    {
+    "block_position":
+    1,
+    "query":
+    "William Jewell College campus Map",
+    "link":
+    "https://www.google.com/search?sca_esv=62e345f31140e71e&q=William+Jewell+College+campus+Map&sa=X&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQ1QJ6BAg7EAE",
+    "serpapi_link":
+    "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=William+Jewell+College+campus+Map"
+    },
+    {
+    "block_position":
+    1,
+    "query":
+    "William Jewell University",
+    "link":
+    "https://www.google.com/search?sca_esv=62e345f31140e71e&q=William+Jewell+University&sa=X&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQ1QJ6BAhCEAE",
+    "serpapi_link":
+    "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=William+Jewell+University"
+    },
+    {
+    "block_position":
+    1,
+    "query":
+    "William Jewell College observatory",
+    "link":
+    "https://www.google.com/search?sca_esv=62e345f31140e71e&q=William+Jewell+College+observatory&sa=X&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQ1QJ6BAhBEAE",
+    "serpapi_link":
+    "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=William+Jewell+College+observatory"
+    },
+    {
+    "block_position":
+    1,
+    "query":
+    "William jewell college Football Record",
+    "link":
+    "https://www.google.com/search?sca_esv=62e345f31140e71e&q=William+jewell+college+Football+Record&sa=X&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQ1QJ6BAhAEAE",
+    "serpapi_link":
+    "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=William+jewell+college+Football+Record"
+    },
+    {
+    "block_position":
+    1,
+    "query":
+    "William Jewell college Lacrosse division",
+    "link":
+    "https://www.google.com/search?sca_esv=62e345f31140e71e&q=William+Jewell+college+Lacrosse+division&sa=X&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQ1QJ6BAg_EAE",
+    "serpapi_link":
+    "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=William+Jewell+college+Lacrosse+division"
+    },
+    {
+    "block_position":
+    1,
+    "query":
+    "William Jewell college Basketball",
+    "link":
+    "https://www.google.com/search?sca_esv=62e345f31140e71e&q=William+Jewell+college+Basketball&sa=X&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQ1QJ6BAg-EAE",
+    "serpapi_link":
+    "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=William+Jewell+college+Basketball"
+    },
+    {
+    "block_position":
+    1,
+    "query":
+    "William Jewell College acceptance rate",
+    "link":
+    "https://www.google.com/search?sca_esv=62e345f31140e71e&q=William+Jewell+College+acceptance+rate&sa=X&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQ1QJ6BAg9EAE",
+    "serpapi_link":
+    "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=William+Jewell+College+acceptance+rate"
+    },
+    {
+    "block_position":
+    1,
+    "query":
+    "William Jewell College logo",
+    "link":
+    "https://www.google.com/search?sca_esv=62e345f31140e71e&q=William+Jewell+College+logo&sa=X&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQ1QJ6BAg8EAE",
+    "serpapi_link":
+    "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=William+Jewell+College+logo"
+    }
+    ],
+    "pagination":
+    {
+    "current":
+    1,
+    "next":
+    "https://www.google.com/search?q=Trence+Key+William+Jewell+College&sca_esv=62e345f31140e71e&ei=1xNOaaD9E5q6qtsPqZ6g2A4&start=10&sa=N&sstk=Af77f_dY1N1EMpL7gJQvc618xn9w_1KSchI2CIDwax4aRYmYNNkQNwvPV9YcsyYxtBM1y4hJCsFwjg_iz8kQ4KAc6rtIOPjzxUJ6PQ&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQ8NMDegQICRAW",
+    "other_pages":
+    {
+    "2":
+    "https://www.google.com/search?q=Trence+Key+William+Jewell+College&sca_esv=62e345f31140e71e&ei=1xNOaaD9E5q6qtsPqZ6g2A4&start=10&sa=N&sstk=Af77f_dY1N1EMpL7gJQvc618xn9w_1KSchI2CIDwax4aRYmYNNkQNwvPV9YcsyYxtBM1y4hJCsFwjg_iz8kQ4KAc6rtIOPjzxUJ6PQ&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQ8tMDegQICRAE",
+    "3":
+    "https://www.google.com/search?q=Trence+Key+William+Jewell+College&sca_esv=62e345f31140e71e&ei=1xNOaaD9E5q6qtsPqZ6g2A4&start=20&sa=N&sstk=Af77f_dY1N1EMpL7gJQvc618xn9w_1KSchI2CIDwax4aRYmYNNkQNwvPV9YcsyYxtBM1y4hJCsFwjg_iz8kQ4KAc6rtIOPjzxUJ6PQ&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQ8tMDegQICRAG",
+    "4":
+    "https://www.google.com/search?q=Trence+Key+William+Jewell+College&sca_esv=62e345f31140e71e&ei=1xNOaaD9E5q6qtsPqZ6g2A4&start=30&sa=N&sstk=Af77f_dY1N1EMpL7gJQvc618xn9w_1KSchI2CIDwax4aRYmYNNkQNwvPV9YcsyYxtBM1y4hJCsFwjg_iz8kQ4KAc6rtIOPjzxUJ6PQ&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQ8tMDegQICRAI",
+    "5":
+    "https://www.google.com/search?q=Trence+Key+William+Jewell+College&sca_esv=62e345f31140e71e&ei=1xNOaaD9E5q6qtsPqZ6g2A4&start=40&sa=N&sstk=Af77f_dY1N1EMpL7gJQvc618xn9w_1KSchI2CIDwax4aRYmYNNkQNwvPV9YcsyYxtBM1y4hJCsFwjg_iz8kQ4KAc6rtIOPjzxUJ6PQ&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQ8tMDegQICRAK",
+    "6":
+    "https://www.google.com/search?q=Trence+Key+William+Jewell+College&sca_esv=62e345f31140e71e&ei=1xNOaaD9E5q6qtsPqZ6g2A4&start=50&sa=N&sstk=Af77f_dY1N1EMpL7gJQvc618xn9w_1KSchI2CIDwax4aRYmYNNkQNwvPV9YcsyYxtBM1y4hJCsFwjg_iz8kQ4KAc6rtIOPjzxUJ6PQ&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQ8tMDegQICRAM",
+    "7":
+    "https://www.google.com/search?q=Trence+Key+William+Jewell+College&sca_esv=62e345f31140e71e&ei=1xNOaaD9E5q6qtsPqZ6g2A4&start=60&sa=N&sstk=Af77f_dY1N1EMpL7gJQvc618xn9w_1KSchI2CIDwax4aRYmYNNkQNwvPV9YcsyYxtBM1y4hJCsFwjg_iz8kQ4KAc6rtIOPjzxUJ6PQ&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQ8tMDegQICRAO",
+    "8":
+    "https://www.google.com/search?q=Trence+Key+William+Jewell+College&sca_esv=62e345f31140e71e&ei=1xNOaaD9E5q6qtsPqZ6g2A4&start=70&sa=N&sstk=Af77f_dY1N1EMpL7gJQvc618xn9w_1KSchI2CIDwax4aRYmYNNkQNwvPV9YcsyYxtBM1y4hJCsFwjg_iz8kQ4KAc6rtIOPjzxUJ6PQ&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQ8tMDegQICRAQ",
+    "9":
+    "https://www.google.com/search?q=Trence+Key+William+Jewell+College&sca_esv=62e345f31140e71e&ei=1xNOaaD9E5q6qtsPqZ6g2A4&start=80&sa=N&sstk=Af77f_dY1N1EMpL7gJQvc618xn9w_1KSchI2CIDwax4aRYmYNNkQNwvPV9YcsyYxtBM1y4hJCsFwjg_iz8kQ4KAc6rtIOPjzxUJ6PQ&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQ8tMDegQICRAS",
+    "10":
+    "https://www.google.com/search?q=Trence+Key+William+Jewell+College&sca_esv=62e345f31140e71e&ei=1xNOaaD9E5q6qtsPqZ6g2A4&start=90&sa=N&sstk=Af77f_dY1N1EMpL7gJQvc618xn9w_1KSchI2CIDwax4aRYmYNNkQNwvPV9YcsyYxtBM1y4hJCsFwjg_iz8kQ4KAc6rtIOPjzxUJ6PQ&ved=2ahUKEwjgxIHyudqRAxUanWoFHSkPCOsQ8tMDegQICRAU"
+    }
+    },
+    "serpapi_pagination":
+    {
+    "current":
+    1,
+    "next_link":
+    "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Trence+Key+William+Jewell+College&start=10",
+    "next":
+    "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Trence+Key+William+Jewell+College&start=10",
+    "other_pages":
+    {
+    "2":
+    "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Trence+Key+William+Jewell+College&start=10",
+    "3":
+    "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Trence+Key+William+Jewell+College&start=20",
+    "4":
+    "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Trence+Key+William+Jewell+College&start=30",
+    "5":
+    "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Trence+Key+William+Jewell+College&start=40",
+    "6":
+    "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Trence+Key+William+Jewell+College&start=50",
+    "7":
+    "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Trence+Key+William+Jewell+College&start=60",
+    "8":
+    "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Trence+Key+William+Jewell+College&start=70",
+    "9":
+    "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Trence+Key+William+Jewell+College&start=80",
+    "10":
+    "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Trence+Key+William+Jewell+College&start=90"
+    }
+    }
+}
